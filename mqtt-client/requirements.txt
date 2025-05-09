@@ -1,0 +1,5 @@
+# Client MQTT pour Python
+paho-mqtt==1.6.1
+
+# Gestion des variables d'environnement
+python-dotenv==0.19.2
